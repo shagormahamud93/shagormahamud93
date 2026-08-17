@@ -11,14 +11,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://github.com/shagormahamud93/shagormahamud93/blob/main/assets/coding-1.jpg?raw=true"
-    alt="Coding Workspace"
-    width="100%"
-  >
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -32,7 +24,7 @@ I'm a Software Developer focused on building modern, scalable and user-focused w
 * 🗄️ Experience with **MongoDB, PostgreSQL & Firebase**
 * 🎨 Interested in modern UI/UX and clean interfaces
 * 🚀 Passionate about building real-world products
-* 📚 Continuously learning new technologies and improving my development skills
+* 📚 Continuously learning and improving my development skills
 
 ---
 
@@ -68,15 +60,16 @@ I'm a Software Developer focused on building modern, scalable and user-focused w
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
 ### 📱
 
 **Mobile Apps**
 
-Flutter
-Dart
-Firebase
+Flutter<br>
+Dart<br>
+Firebase<br>
 GetX
 
 </td>
@@ -87,9 +80,9 @@ GetX
 
 **Web Development**
 
-React
-Next.js
-TypeScript
+React<br>
+Next.js<br>
+TypeScript<br>
 Tailwind CSS
 
 </td>
@@ -100,9 +93,9 @@ Tailwind CSS
 
 **Backend**
 
-Node.js
-Express.js
-REST API
+Node.js<br>
+Express.js<br>
+REST API<br>
 MongoDB
 
 </td>
@@ -113,25 +106,15 @@ MongoDB
 
 **UI / UX**
 
-Responsive Design
-Modern UI
-Figma
+Responsive Design<br>
+Modern UI<br>
+Figma<br>
 Clean Interfaces
 
 </td>
+
 </tr>
 </table>
-
-## 🤝 Open to Collaboration
-
-I'm interested in collaborating on:
-
-* 🚀 Web Development Projects
-* 📱 Flutter Applications
-* 🌐 React / Next.js Projects
-* 🤖 AI-powered Applications
-* 💡 Open Source Projects
-* 🛠️ Real-world SaaS Products
 
 ---
 
