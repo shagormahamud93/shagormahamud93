@@ -72,22 +72,6 @@ I'm a Software Developer focused on building modern, scalable and user-focused w
 
 ---
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shagormahamud93&theme=github-dark-blue&hide_border=true" width="70%" alt="GitHub Contribution Streak">
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shagormahamud93&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph">
-</p>
-
----
-
 ## 💼 What I Do
 
 <table>
