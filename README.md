@@ -62,14 +62,6 @@ I'm a Software Developer focused on building modern, scalable and user-focused w
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,vercel,netlify,aws" alt="Development Tools">
 </p>
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shagormahamud93&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="49%" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagormahamud93&layout=compact&theme=github_dark&hide_border=true" width="42%" alt="Top Languages">
-</p>
-
 ---
 
 ## 💼 What I Do
@@ -129,19 +121,6 @@ Clean Interfaces
 </td>
 </tr>
 </table>
-
----
-
-## 🎯 Currently Working On
-
-* 🚀 Building modern web and mobile applications
-* 📱 Improving Flutter application architecture
-* 🌐 Developing applications with Next.js and TypeScript
-* ⚙️ Working with REST APIs and backend services
-* 🎨 Creating clean and responsive user interfaces
-* 📚 Continuously improving my software development skills
-
----
 
 ## 🤝 Open to Collaboration
 
