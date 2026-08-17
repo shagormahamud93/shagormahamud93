@@ -11,8 +11,12 @@
   </a>
 </p>
 
-<p align="left">
-  <img src="assets/coding-1.jpg" alt="Coding Workspace" width="100%">
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/shagormahamud93/shagormahamud93/main/assets/coding-1.jpg" 
+    alt="Coding Workspace" 
+    width="100%"
+  >
 </p>
 
 ---
