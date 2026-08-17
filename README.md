@@ -66,7 +66,7 @@ I'm a Software Developer focused on building modern, scalable and user-focused w
   <a href="https://www.facebook.com/shagor.akash.100">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://sagar-ali.vercel.app/">
+  <a href="https://sagor-ali.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
