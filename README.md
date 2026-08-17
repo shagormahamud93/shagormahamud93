@@ -28,7 +28,7 @@ I'm a Software Developer focused on building modern, scalable and user-focused w
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Development Focus
 
 ### 🌐 Frontend
 
@@ -53,87 +53,6 @@ I'm a Software Developer focused on building modern, scalable and user-focused w
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,vercel,netlify,aws" alt="Development Tools">
 </p>
-
----
-
-## 💼 Skills & Development Focus
-
-### 🚀 Development Skills
-
-<table>
-<tr>
-<td width="50%">
-
-**Frontend Development**
-
-React.js  
-Next.js  
-TypeScript  
-JavaScript  
-Tailwind CSS
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" width="260">
-
-</td>
-
-<td width="50%">
-
-**Mobile Development**
-
-Flutter  
-Dart  
-Firebase  
-GetX
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase" width="180">
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-**Backend Development**
-
-Node.js  
-Express.js  
-REST APIs  
-MongoDB  
-PostgreSQL
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql" width="230">
-
-</td>
-
-<td width="50%">
-
-**Tools & UI/UX**
-
-Git & GitHub  
-Figma  
-VS Code  
-Vercel  
-AWS
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel,aws" width="260">
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Development Focus
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagormahamud93&layout=donut&theme=github_dark&hide_border=true&langs_count=8" width="42%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shagormahamud93&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="55%">
-</p>
-
----
 
 ## 📫 Connect With Me
 
